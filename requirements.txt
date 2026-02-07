@@ -1,0 +1,5 @@
+PyQt5>=5.15.9
+requests>=2.31.0
+reportlab>=4.0.0
+zoomeye>=3.0.0
+openai>=1.0.0
