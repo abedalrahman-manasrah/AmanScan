@@ -639,7 +639,8 @@ Common choices:
 Repository owner:
 
 ```text
-abedalrahman-manasrah
+ENG: Abed Alrahman Manasrah
+Abdulhamid Zaro
 ```
 
 Project name:
@@ -1295,7 +1296,8 @@ searchsploit --help
 مالك المستودع:
 
 ```text
-abedalrahman-manasrah
+ENG: Abed Alrahman Manasrah
+Abdulhamid Zaro
 ```
 
 اسم المشروع:
